@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobile6Lab</string>
+    <string name="name_but_save">Сохранить</string>
+    <string name="for_user_warn_not_all_fields">Заполните все поля!</string>
+    <string name="data_save_to_user">Данные сохранены: %1$s, %2$s, %3$s, %4$s лет</string>
+    <string name="age_in_str_to_us_slider">Возраст: %1$s</string>
+    <string name="choose_on_butt_drop_menu_country">Выбрать</string>
+    <string name="choose_country_text_in_field">Выберите страну</string>
+    <string name="male_gender">Мужской</string>
+    <string name="female_gender">Женский</string>
+    <string name="gender_field">Пол:</string>
+    <string name="name_str_show">Имя</string>
+    <string name="Country_for_list_1">Россия</string>
+    <string name="Country_for_list_2">Англия</string>
+    <string name="Country_for_list_3">Канада</string>
+    <string name="Country_for_list_4">США</string>
+    <string name="Country_for_list_5">Аргентина</string>
+</resources>
